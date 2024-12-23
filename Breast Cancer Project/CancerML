@@ -3,4 +3,5 @@ import numpy as np
 import pandas as pd
 import sqlite3
 
+%Scikit has Wisconsin breast cancer data I was looking at
 cancerData=scikit.load_cancer()
